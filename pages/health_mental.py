@@ -14,6 +14,7 @@ st.header("Things to do")
 - Meditation
 - Hobbies
 - Art of Relaxing
+- Not being tough on your own selves
 """
 
 st.header("Helpful Resources")

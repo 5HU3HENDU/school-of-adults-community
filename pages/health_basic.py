@@ -10,8 +10,9 @@ st.divider()
 
 st.header("Emergency")
 
+
+st.link_button("Call An Ambulance - 102", "tel:102", type="primary")
 """
-- [Call an ambulance - 102](tel:102)
 - [Hospitals Near Me](https://www.google.com/maps/search/hospitals+near+me/)
 """
 

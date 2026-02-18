@@ -6,7 +6,6 @@ st.divider()
 
 """
 - [Your Personal Fashion Assistant](https://heyalle.com/)
-
 """
 
 st.header("Fashion Hacks")

@@ -10,7 +10,7 @@ pg = st.navigation(
         ], 
 		"Health": [
             st.Page('pages/health_basic.py', title = 'Basics', icon = '1️⃣'),
-            st.Page('pages/health_food.py', title = 'Food and Water', icon = '🍱'),
+            st.Page('pages/health_food.py', title = 'Food, Water & Air', icon = '🍱'),
             st.Page('pages/health_exercise.py', title = 'Exercise', icon = '🧘'),
             st.Page('pages/health_body_parts.py', title = 'Body', icon = '⚕️'),
             st.Page('pages/health_check.py', title = 'Check Up', icon = '🩺'),

@@ -22,11 +22,11 @@ st.header("Things to do")
 - [At-home exercises](https://www.healthline.com/health/fitness-exercise/at-home-workouts#intermediate-routine)
 """
 
-st.header("Movement for Desk jobs")
+st.header("Movement for People with Desk jobs")
 """
 - If your office is nearby, try walking to and from work.
 - Install a [standing desk converter](https://www.ikea.com/in/en/cat/standing-desks-55008/).
-- Use stairs always.
+- Use stairs whenever you can.
 - Take small breaks every 40 minutes(set timer) and do some stretching exercises: neck rolls, shoulder shrugs and wrist stretches. 
 """
 
@@ -36,6 +36,7 @@ st.header("Mentally stimulating exercises/activities")
 - [Chess](https://www.chess.com/)
 - Reading
 - Drawing
+- Puzzles
 - Doodling
 - [Zen Tangling](https://zentangle.com/pages/about)
 """

@@ -29,3 +29,9 @@ st.header("Airport Know-Hows")
 - Store your boarding pass on [Digiyatra](https://digiyatrafoundation.com/) for smooth airport entry to boarding gates. It keeps track of all your flight tickets too.
 - Keep documents in one place, use apps like Google Drive, Apple Wallet or Notion to store passport scans, visa, Aadhar card etc.
 """
+
+st.header("Other hacks")
+"""
+- Some corporate let's you book flights which are refundable without paying any extra amount. These are corporate booking for personal use. It also includes meals. Use it respectfully
+
+"""

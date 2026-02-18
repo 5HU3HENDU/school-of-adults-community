@@ -23,6 +23,7 @@ st.header("Bathroom Needs")
 - [Geyser](https://www.vijaysales.com/c/geysers-and-water-heaters)
 - [Exhaust Fans](https://www.crompton.co.in/collections/exhaust-fans)
 - Mirrors
+- Bathroom Mats
 - [Cabinets](https://www.ikea.com/in/en/cat/bathroom-products-ba001/)
 """
 

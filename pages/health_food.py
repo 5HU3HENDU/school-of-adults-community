@@ -19,13 +19,13 @@ st.header("Water")
 - [Know your water](https://www.peore.in/blogs/all-blogs/know-your-water-a-complete-guide-to-drinking-water-quality)
 - Drink at least 4-5 litre of water everyday
 - Buy a water purifier if needed
-- Sometimes, if possible, you can also order Bisleri at home
+- If needed and possible, order filtered/mineral water at home
 """
 
 st.header("Food")
 """
-- Diet Plan
-- Home cooked foods
-- Fruits
+- Have a Diet Plan
+- Prefer Home cooked foods
+- Fruits or Fruit Juices
 - Dry Fruits
 """

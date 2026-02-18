@@ -10,7 +10,8 @@ st.divider()
 
 st.header("🧠Brain And Nervous Sytem")
 """
-
+- Solve puzzles for keeping the brain active
+- Reduce screentime to avoid brain fog
 """
 
 st.header("👁️Eyes")

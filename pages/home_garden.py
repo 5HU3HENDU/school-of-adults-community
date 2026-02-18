@@ -9,8 +9,8 @@ st.title("🌱Garden | SofA")
 st.divider()
 
 """
-
-- [Gardening Encyclopedia](https://gardening.bharatagri.com/pages/package-of-practices)
+# - [Gardening Encyclopedia](https://gardening.bharatagri.com/pages/package-of-practices)
+- [Gardening Encyclopedia](https://www.gardeners.com/pages/gardening-encyclopedia)
 
 """
 
