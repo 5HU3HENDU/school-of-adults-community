@@ -6,6 +6,8 @@ st.title("🧸 Kids | SofA")
 
 st.divider()
 
+st.header("🏠 Teaching at Home")
+
 subject = st.radio(
     "Choose a subject:",
     ["🔠 English", "🔢 Maths", "🌱 Science", "🎨 Art"],
@@ -13,8 +15,6 @@ subject = st.radio(
 )
 
 st.divider()
-
-st.header("🏠 Teaching at Home")
 
 # English
 if subject == "🔠 English":
