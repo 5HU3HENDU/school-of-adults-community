@@ -29,6 +29,9 @@ st.header("Health Insurance")
 """
 
 st.header("Early Health Signs to Watch Out For")
+st.badge("New")
+
+
 """
 - Unexplained weight loss or gain
 - Persistent fatigue or lack of energy
