@@ -14,7 +14,6 @@ subject = st.radio(
     horizontal=True
 )
 
-st.divider()
 
 # English
 if subject == "🔠 English":
