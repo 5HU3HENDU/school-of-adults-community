@@ -89,3 +89,38 @@ elif subject == "🎨 Art":
                 "<script>window.open('https://www.youtube.com/results?search_query=music+and+movement+for+kids', '_blank');</script>",
                 height=0
             )
+
+st.divider()
+st.header("📍 What are you looking for:")
+
+
+user_location = st.text_input("🏠 Enter your Area or City:", 
+                              placeholder="e.g. Powai, Mumbai")
+
+
+col1, col2, col3 = st.columns(3)
+
+search_items = {
+    "🧸 Playschool": "best+playschools",
+    "🏫 School": "top+rated+schools",
+    "🎨 Hobby Classes": "kids+hobby+classes"
+}
+
+
+cols = [col1, col2, col3]
+
+for i, (label, search_term) in enumerate(search_items.items()):
+    with cols[i]:
+        
+        if st.button(label, use_container_width=True):
+            if user_location:
+                maps_url = f"https://www.google.com/maps/search/{search_term}+near+{user_location.replace(' ', '+')}"
+                
+                st.components.v1.html(
+                    f"<script>window.open('{maps_url}', '_blank');</script>",
+                    height=0
+                )
+            else:
+                st.warning("Please enter a location first!")
+
+st.divider()
