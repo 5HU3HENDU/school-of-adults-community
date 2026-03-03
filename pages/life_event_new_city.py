@@ -10,18 +10,15 @@ tab1, tab2 = st.tabs(["◉ Verified Services & Movers", "◉ Essential Documents
 
 with tab1:
     st.subheader("Reliable Services & Moving")
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown("""
+
+    st.markdown("""
         - **[Porter](https://porter.in/packers-and-movers):** Transparent app-based pricing and live tracking.
         - **[NoBroker](https://www.nobroker.in/):** They usually assign a 'Move Manager' to handle the laborers for you.
         - **[Boxigo](https://boxigo.in/):** Reliable tech-focused shifting service.
         """)
-        
-    with col2:
-        st.subheader("Furniture & Appliance Renting")
-        st.markdown("""
+
+    st.subheader("Furniture & Appliance Renting")
+    st.markdown("""
         - **[Furlenco](https://www.furlenco.com/):** Full room sets and furniture.
         - **[Rentomojo](https://www.rentomojo.com/):** Best for Fridges, Washing Machines, and Microwaves.
         """)
@@ -43,8 +40,7 @@ with tab2:
           - Bank accounts
           - PAN card 
           - SIM cards via operator apps/portals.
-        """
-    )
+        """)
         
     with st.expander("**Gas Cylinder Transfer**"):
         st.markdown("""
