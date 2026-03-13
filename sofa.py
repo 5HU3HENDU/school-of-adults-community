@@ -46,6 +46,7 @@ pg = st.navigation(
             st.Page('pages/people_friends.py', title = 'Friends', icon = '🫂'),
             st.Page('pages/people_relatives.py', title = 'Relatives', icon = '🌳'),
             st.Page('pages/people_office.py', title = 'Colleagues', icon = '🏢'),
+            st.Page('pages/people_roommate.py', title = 'Roommate', icon = '🏠'),
             st.Page('pages/people_enemy.py', title = 'Enemies', icon = '🥷')
             
         ],
@@ -78,12 +79,14 @@ pg = st.navigation(
 		"Life Skills": [
             st.Page('pages/life_skill_driving.py', title = 'Driving', icon = '🚘'),
             st.Page('pages/life_skill_swimming.py', title = 'Swimming', icon = '🥽'),
+            st.Page('pages/life_skill_hobby.py', title = 'Hobbies', icon = '🥁'),
             st.Page('pages/life_skill_problem_solving.py', title = 'Problem Solvinng', icon = '🕵️')
         ],
 		"Life Events": [
             st.Page('pages/life_event_buying_home.py', title = 'Buying Home', icon = '🏡'),
             st.Page('pages/life_event_marriage.py', title = 'Marriage', icon = '💍'),
             st.Page('pages/life_event_pregnancy.py', title = 'Pregnancy', icon = '🤰'),
+            st.Page('pages/life_event_buying_a_car.py', title = 'Buying a Car', icon = '🚙'),
             st.Page('pages/life_event_new_city.py', title = 'Moving to A New City', icon = '🚛')
         ],
 		"Tech": [
