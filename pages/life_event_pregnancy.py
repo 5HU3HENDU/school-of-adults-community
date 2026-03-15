@@ -7,10 +7,10 @@ st.title("🤰 Pregnancy | SofA")
 st.divider()
 
 tab1, tab2, tab3, tab4 = st.tabs([
-    "Find Doctors & Hospitals", 
-    "Pre-Pregnancy Planning", 
-    "Hospital Delivery Checklist",
-    "Contingency planning"
+    "◉ **Find Doctors & Hospitals**", 
+    "◉ **Pre-Pregnancy Planning**", 
+    "◉ **Hospital Delivery Checklist**",
+    "◉ **Contingency planning**"
 ])
 
 with tab1:
@@ -56,7 +56,7 @@ with tab2:
         - CBC
         - Blood Sugar
         - Vitamin D
-        - Thyroid profile
+        - Thyroid profile 
         """)
     
 with tab3:
