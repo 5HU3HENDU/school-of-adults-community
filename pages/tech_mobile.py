@@ -32,10 +32,10 @@ with tab2:
 
     with c1:
         st.subheader("New Phones")
-        st.markdown("[Amazon](https://amazon.in/mobile-phones)")
+        st.markdown("[Amazon](https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles)")
         st.markdown("[Flipkart](https://flipkart.com/mobiles)")
-        st.markdown("[Croma](https://croma.com/mobile-phones)")
-        st.markdown("[Reliance Digital](https://reliancedigital.in/mobiles)")
+        st.markdown("[Croma](https://www.croma.com/phones-wearables/c/1)")
+        st.markdown("[Reliance Digital](https://www.reliancedigital.in/sections/mobiles)")
         st.markdown("[Apple.in](https://apple.com/in)")
         st.markdown("[Samsung.com](https://samsung.com/in)")
     
