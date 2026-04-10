@@ -46,6 +46,7 @@ st.header("Safety Tips")
 - **Money is a Red Flag:** If a match asks for money for any reason (emergencies, customs, gifts), it is a scam. Block them instantly.
 - **Privacy First:** Use the in-app calling features provided by sites like Jeevansathi or Shaadi to avoid giving out your personal phone number too early.
 - **Public Meetings:** Always choose a busy cafe or mall for your first few meetings. Inform a friend or family member where you are going.
+- **Cross-check via social media platforms (LinkedIn, Instagram, etc); genuine profiles have detailed and consistent family/education info.**
 """
 
 st.divider()
