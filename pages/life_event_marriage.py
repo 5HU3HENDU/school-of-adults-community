@@ -15,7 +15,7 @@ st.header("Matrimonial sites")
 - **Newspaper Advertisements**: Most ads are published in the **Sunday Edition**.
     - **[Times Soulmate (TOI)](https://ads.timesofindia.com/):** The highest reach in English-speaking urban India. Look for their 'Buy 2 Get 2' deals.
     - **[HT Classifieds](https://www.htclassifieds.com/):** For Delhi, NCR, and North India.
-    - **[The Hindu](https://thehinduads.com/):** 
+    - **[The Hindu](https://thehinduads.com/)** 
 
 """
 
