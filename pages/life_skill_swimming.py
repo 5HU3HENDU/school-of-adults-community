@@ -33,6 +33,22 @@ st.subheader("📍Find a place to swim")
 - [Fitpass](https://fitpass.co.in/swimming): Premium pools and aquatic centers across India with a single membership.
 
 """
+
+st.subheader("Join a class near you:")
+
+user_location = st.text_input("Enter your area or city",
+                              placeholder="Indiranagar, Bangalore")
+
+if st.button("Search", use_container_width=True):
+    if user_location:
+        search_term = f"best+swimming+classes+near+{user_location.replace(' ','+')}"
+        maps_url=f"https://www.google.com/maps/search/{search_term}"
+      
+        st.components.v1.html(
+             f"<script>window.open('{maps_url}', '_blank');</script>",
+            height=0
+        )
+
 st.divider()
 
 st.subheader("🥽**Get your Gear**")
